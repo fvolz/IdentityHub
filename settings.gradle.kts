@@ -53,6 +53,7 @@ include(":extensions:common:credential-watchdog")
 include(":extensions:sts:sts-account-provisioner")
 include(":extensions:sts:sts-account-service-local")
 include(":extensions:sts:sts-account-service-remote")
+include(":extensions:superuser-seed")
 
 // Identity APIs
 include(":extensions:api:identity-api:validators")
